@@ -31,6 +31,7 @@
     <string name="input_your_image">Please upload your image first!</string>
     <string name="choose_picture">Choose a Picture</string>
     <string name="setting">Setting</string>
-    <string name="login_error">Login failure, please try again!</string>
-    <string name="signup_error">Signup failure, please try again!</string>
+    <string name="login_error">Cannot Login, please check again!</string>
+    <string name="signup_error">Cannot Signup, please check again!</string>
+    <string name="where_the_world_builds_software" translatable="false">Where the World Builds Software</string>
 </resources>

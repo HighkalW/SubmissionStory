@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_detail.xml" value="0.10989583333333333" />
-        <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_login.xml" value="0.10989583333333333" />
+        <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_login.xml" value="0.16799999999999998" />
         <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
         <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_signup.xml" value="0.10989583333333333" />
+        <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.10989583333333333" />
         <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/activity_story.xml" value="0.1" />
         <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/items_story.xml" value="0.10989583333333333" />
         <entry key="..\:/Semester 6/SubmissionStoryApp/app/src/main/res/layout/story_items.xml" value="0.10989583333333333" />
