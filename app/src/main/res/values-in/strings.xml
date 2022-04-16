@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyright">© 2021 Dicoding</string>
+    <string name="logout">Keluar</string>
+    <string name="min_length_char">Panjang minimal %1$d karakter</string>
+    <string name="email_hint">Masukan email</string>
+    <string name="pass_hint">Masukan password</string>
+    <string name="login_ket">Belum punya akun ?</string>
+    <string name="image_login">Gambar Login</string>
+    <string name="invalid_email">Format email tidak sesuai!</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Masukan nama</string>
+    <string name="signup_ket">Sudah memiliki akun ?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_desc">Masukan deskripsi</string>
+    <string name="avatar">avatar</string>
+    <string name="username">username</string>
+    <string name="message_validation">Masukan %1$s</string>
+    <string name="next">Lanjut</string>
+    <string name="login_success">Login berhasil!</string>
+    <string name="created_at">Dibuat pada</string>
+    <string name="description">Deskripsi</string>
+    <string name="add_story">Tambah Stori</string>
+    <string name="permission_denied">Tidak dapat mendapatkan izin</string>
+    <string name="input_your_image">Upload gambar terlebih dahulu!</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="setting">Pengaturan</string>
+    <string name="login_error">Masuk gagal, silahkan coba lagi!</string>
+    <string name="signup_error">Daftar gagal, silahkan coba lagi!</string>
+</resources>
