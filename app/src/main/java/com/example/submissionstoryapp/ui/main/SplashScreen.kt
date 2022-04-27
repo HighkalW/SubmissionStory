@@ -9,7 +9,6 @@ import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.TextView
-import com.example.submissionstoryapp.ui.main.MainActivity
 import com.example.submissionstoryapp.R
 
 class SplashScreen : AppCompatActivity() {
