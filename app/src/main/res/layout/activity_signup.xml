@@ -108,7 +108,7 @@
         android:alpha="0"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/navy"
+        android:backgroundTint="@color/light_variants"
         android:text="@string/signup"
         android:layout_marginTop="12dp"
         app:layout_constraintEnd_toEndOf="@+id/tv_signup"
